@@ -1,2 +1,4 @@
 my first git txt
 time 8.35
+写了一句代码
+time 8.42
