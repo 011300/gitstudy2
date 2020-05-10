@@ -1,4 +1,6 @@
-my first git txt
+﻿my first git txt
 time 8.35
 写了一句代码
 time 8.42
+又写了一句代码
+time 8.53
